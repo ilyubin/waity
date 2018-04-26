@@ -1,9 +1,9 @@
-##Introduction
+## Introduction ##
 
 
 Waits for a certain amount of time for an action to complete
 
-##Usage
+## Usage ##
 
 
 ```python
